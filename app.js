@@ -1,6 +1,6 @@
 const yourDate = new Date("2022-10-04T00:00:00"),
 
-music = ['1'];
+music = ['1', '2'];
 
 document.addEventListener('DOMContentLoaded', function(){
 
